@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Home-Automation-Interface/static/css/main.8ed94342.chunk.css",
+    "main.js": "/Home-Automation-Interface/static/js/main.69a5d955.chunk.js",
+    "main.js.map": "/Home-Automation-Interface/static/js/main.69a5d955.chunk.js.map",
+    "runtime-main.js": "/Home-Automation-Interface/static/js/runtime-main.543176f9.js",
+    "runtime-main.js.map": "/Home-Automation-Interface/static/js/runtime-main.543176f9.js.map",
+    "static/js/2.55f47b44.chunk.js": "/Home-Automation-Interface/static/js/2.55f47b44.chunk.js",
+    "static/js/2.55f47b44.chunk.js.map": "/Home-Automation-Interface/static/js/2.55f47b44.chunk.js.map",
+    "index.html": "/Home-Automation-Interface/index.html",
+    "static/css/main.8ed94342.chunk.css.map": "/Home-Automation-Interface/static/css/main.8ed94342.chunk.css.map",
+    "static/js/2.55f47b44.chunk.js.LICENSE.txt": "/Home-Automation-Interface/static/js/2.55f47b44.chunk.js.LICENSE.txt",
+    "static/media/background.3f938a3c.jpg": "/Home-Automation-Interface/static/media/background.3f938a3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543176f9.js",
+    "static/js/2.55f47b44.chunk.js",
+    "static/css/main.8ed94342.chunk.css",
+    "static/js/main.69a5d955.chunk.js"
+  ]
+}
